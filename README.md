@@ -19,8 +19,8 @@ This data comes from the crashes dataset, the source was filtered using the same
 This data comes from the arrest dataset. The source was filtered using OpenData filtering function, the data are all from the fiscal year of 2021. The data contains many other reasons for arrest that are not associated with driving. The data chosen for the causes of the crashes all contain the keyword "Traffic" in it. 
 <br>
 ##### > csv files: <br>
--[crash.csv](https://github.com/Kaidi1/Data-science-project/files/7695726/crash.csv)
--[arrest.csv](https://github.com/Kaidi1/Data-science-project/files/7695727/arrest.csv) <br> <br>
+-[crash.csv](https://github.com/Kaidi1/Data-science-project/files/7695726/crash.csv) <br>
+-[arrest.csv](https://github.com/Kaidi1/Data-science-project/files/7695727/arrest.csv) <br> 
 ###### > citations: <br> 
 -NYC OPENDATA: <br>
 -[Crash data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/) <br>
