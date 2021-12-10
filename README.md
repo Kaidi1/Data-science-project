@@ -2,7 +2,7 @@
 
 ![Title](https://user-images.githubusercontent.com/62517289/145642733-3b6cf4fc-4420-449f-9de9-a2b076f03823.png) <br> <br>
 ## > Overview: <br>
-    Driving in NYC can be daunting for student drivers. My hypothesis is that the number of accidents on the road are directly related to how safe the area/road is. I used collisions data and arrest data from NYC OpenData. I first scrape the data off of the database using the built in fitering functions inside NYC OpenData. Then further filtered my data using Python Pandas and plotting them using Matplotlib. <br> <br> 
+Driving in NYC can be daunting for student drivers. My hypothesis is that the number of accidents on the road are directly related to how safe the area/road is. I used collisions data and arrest data from NYC OpenData. I first scrape the data off of the database using the built in fitering functions inside NYC OpenData. Then further filtered my data using Python Pandas and plotting them using Matplotlib. <br> <br> 
 ### > Data 1: <br>
 ![CrashTime](https://user-images.githubusercontent.com/62517289/145642762-f1cf899f-be82-402b-9419-bd09e0417010.png)
 #### > Technique: <br>
@@ -19,6 +19,6 @@ This data comes from the crashes dataset, the source was filtered using the same
 This data comes from the arrest dataset. The source was filtered using OpenData filtering function, the data are all from the fiscal year of 2021. The data contains many other reasons for arrest that are not associated with driving. The data chosen for the causes of the crashes all contain the keyword "Traffic" in it. 
 <br>
 ##### > citations: <br>
--NYC OPENDATA:
+-NYC OPENDATA: <br>
 -![Crash data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/)
 -[Arrest data](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/)
