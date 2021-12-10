@@ -1,4 +1,4 @@
-# **Title Data science project on Transportation** <br> <br>
+# **Data science project on Transportation** <br> <br>
 
 ![Title](https://user-images.githubusercontent.com/62517289/145642733-3b6cf4fc-4420-449f-9de9-a2b076f03823.png) <br> <br>
 ## > Overview: <br>
