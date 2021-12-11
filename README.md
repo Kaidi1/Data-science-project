@@ -21,7 +21,7 @@ This data comes from the crashes dataset, the source was filtered using the same
 This data comes from the arrest dataset. The source was filtered using OpenData filtering function, the data are all from the fiscal year of 2021. The data contains many other reasons for arrest that are not associated with driving. The data chosen for the causes of the crashes all contain the keyword "Traffic" in it. 
 <br>
 #### >Conclusion: <br>
-. <br>
+Based on the data and results above. One can conclude that the best time to practice driving would be early in the morning, or late at night. From 1 AM to 7 AM we have the least number of vehicle crashes in FY 2021. We can also see a downward trend between 8 PM to 11 PM. However, 1 AM to 7 AM are not reasonable times for a student driver to practice driving. Moreover, the most perhaps unsurprising, leading, cause of crashes is driver inattention. The number of crashes due to driver inattention/distraction towers about the rest. In my data 3, it is shown that the number of arrests in Staten Island involving traffic/vehicle violations is significantly lower than those of the other 4 boroughs. The number of arrests due to traffic violations is important because those same traffic violations can be shown to have ties to the increase in the number of crashes. I hereby conclude that if a student driver wishes to further improve or gain confidence in their driving skills, they should make the effort to drive around 8 PM to 11 PM and the location for practice should preferably be in Staten Island. <br>
 ##### > csv files: <br>
 -[crash.csv](https://github.com/Kaidi1/Data-science-project/files/7695726/crash.csv) <br>
 -[arrest.csv](https://github.com/Kaidi1/Data-science-project/files/7695727/arrest.csv) <br> 
