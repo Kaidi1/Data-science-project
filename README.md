@@ -1,4 +1,4 @@
-# **Data science project on Transportation** <br> <br>
+# **SAFE DRIVING NYC** <br> <br>
 ![Title](https://user-images.githubusercontent.com/62517289/145651209-79b0678d-32fc-411d-b5c2-f98a5480eede.png) <br> <br>
 ## > Overview: <br>
 Driving in NYC can be daunting for student drivers. My hypothesis is that the number of accidents on the road are directly related to how safe the area/road is. I used collisions data and arrest data from NYC OpenData. I first scrape the data off of the database using the built in fitering functions inside NYC OpenData. Then further filtered my data using Python Pandas and plotting them using Matplotlib. <br>
